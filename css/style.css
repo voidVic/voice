@@ -1,0 +1,20 @@
+.left{
+    height: 100vh;
+    background-color: #eee;
+}
+
+.right{
+    height: 100vh;
+    background-color: #262257;
+    color: #7bb120;
+}
+
+#start_img{
+    width: 70%;
+    margin: 10% 15%;
+}
+
+#b1,#b2,#b3,#b4{
+    height: 300px;
+    border: 1px solid #444;
+}
