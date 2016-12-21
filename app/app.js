@@ -9,7 +9,7 @@ var b1 = document.getElementById("b1");
 var b2 = document.getElementById("b2");
 var b3 = document.getElementById("b3");
 var b4 = document.getElementById("b4");
-var colors = ["blue", "green", "red", "yellow", "black"];
+var colors = ["blue", "green", "red", "yellow", "black", "white"];
 var box = ["one", "two", "three", "four"];
 
 var actions = [{
